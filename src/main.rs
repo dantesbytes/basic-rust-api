@@ -161,5 +161,4 @@ docker-compose.yml
 
 
 
- 1..5 | ForEach-Object { New-Item -ItemType File -Name "file$_" }
 
